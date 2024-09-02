@@ -1,0 +1,10 @@
+{
+    "name": "Jogo da forca",
+    "short_name": "Forca",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Jogo desenvolvido totalmente em Python",
+    "orientation": "natural"
+}
